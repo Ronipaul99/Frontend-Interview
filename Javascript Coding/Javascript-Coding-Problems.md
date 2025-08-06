@@ -9,12 +9,12 @@
 
 ### 0.2. make JS thread as Multithread (Approaches : Web worker, requestIdleCallback)
 
-A Live Clock
+1. A Live Clock
 
-Displays the current time, updating every millisecond.
-A Prime Number Generator
+2. Displays the current time, updating every millisecond.
+3. A Prime Number Generator
 
-Takes an input N and, on button click, generates all prime numbers up to N.
+4. Takes an input N and, on button click, generates all prime numbers up to N.
 Current Issue:
 When entering a large number (e.g., 100,000), the UI freezes, causing the clock to stop updating until the computation is complete.
 
